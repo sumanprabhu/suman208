@@ -1,0 +1,7 @@
+->What is devops?
+Devops is a culture which improves the efficiency of the organization in delivering the softwares.
+Software development methodology which improves the collaboration bw dev and op team using various.....
+These automation tools are implemented using various status which are part of devops life cycle.
+
+->SDLC-Software Development Life Cycle
+->https://github.com/sumanprabhu/suman208.git
